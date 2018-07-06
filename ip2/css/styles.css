@@ -7,5 +7,9 @@
   text-align: center;
   background-image: url("../assets/backgrounds/landing.jpg");
   background-size: cover;
-margin: 0
+  margin: 0
+}
+
+h4{
+  font-style: italic;
 }
