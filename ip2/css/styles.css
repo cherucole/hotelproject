@@ -10,19 +10,43 @@
   margin: 0
 }
 
-h4{
+h4 {
   font-style: italic;
 }
 
-#drinkshead{
+#drinkshead {
   text-align: right;
 }
 
-#happyrow{
+#happyrow {
   text-align: center;
 }
 
-#partyrow{
+#partyrow {
   text-align: center;
-  height: 100%;
+}
+
+#breakfasttab {
+  height: 160px;
+  background-image: url("../assets/foodtop/breakfast.jpg");
+  background-size: cover;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+#lunchtab {
+  height: 160px;
+  background-image: url("../assets/foodtop/lunch.jpg");
+  background-size: cover;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+#dinnertab {
+  height: 160px;
+  background-image: url("../assets/foodtop/dinner.jpg");
+  background-size: cover;
+  color: white;
+  font-size: 40px;
+  text-align: center;
 }
