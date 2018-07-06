@@ -1,14 +1,11 @@
-# Independent Project
+# My second independent project
 
-## Instructions
-  1) Please clone the Moringa School **mpft1-ip** repo to your computer.
+#### By Cheruiyot Collins
 
-  2) Create a repo on your profile, and copy the files from **mpft1-ip** to your new repo.
-  
-  3) Fix up the folder structure.
+## Description
+This is my second independent project. The project is about creating a hotel website using bootstrap This will involve using the techniques skills and tricks I have learnt during the course of the week. This was achieved through use of html and css to build a website that showcases my skills.
 
-  4) Submit your link through Moringa School LMS.
+https://cherucole.github.io/hotelproject/index.html
 
-  5) Complete the independent project.
-  
-  6) Push your commits up to your repo.
+
+Copyright (c) {2018} Cheruiyot Collins
