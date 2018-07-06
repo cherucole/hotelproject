@@ -16,6 +16,7 @@ h4 {
 
 #drinkshead {
   text-align: right;
+
 }
 
 #happyrow {
@@ -87,7 +88,7 @@ background-image: url("../assets/backgrounds/foodsBg.jpg");  background-size: co
   text-align: center;
 }
 #section8background {
-  height: 400px;
+  height: 350px;
   background-color: red;
   background-size: cover;
   color: white;
