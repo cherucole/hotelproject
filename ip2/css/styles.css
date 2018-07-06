@@ -1,11 +1,11 @@
-#slogan{
+#slogan {
   color: white;
   font-family: sans-serif;
-
 }
 
-.jumbotron{
+.jumbotron {
   text-align: center;
   background-image: url("../assets/backgrounds/landing.jpg");
   background-size: cover;
+  padding-bottom: 0:
 }
