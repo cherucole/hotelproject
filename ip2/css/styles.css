@@ -17,3 +17,12 @@ h4{
 #drinkshead{
   text-align: right;
 }
+
+#happyrow{
+  text-align: center;
+}
+
+#partyrow{
+  text-align: center;
+  height: 100%;
+}
