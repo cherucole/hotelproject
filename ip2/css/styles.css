@@ -7,7 +7,7 @@
   text-align: center;
   background-image: url("../assets/backgrounds/landing.jpg");
   background-size: cover;
-  margin: 0
+  margin: 0;
 }
 
 h4 {
@@ -34,6 +34,7 @@ h4 {
   font-size: 40px;
   text-align: center;
 }
+
 #lunchtab {
   height: 160px;
   background-image: url("../assets/foodtop/lunch.jpg");
@@ -42,6 +43,7 @@ h4 {
   font-size: 40px;
   text-align: center;
 }
+
 #dinnertab {
   height: 160px;
   background-image: url("../assets/foodtop/dinner.jpg");
@@ -49,4 +51,9 @@ h4 {
   color: white;
   font-size: 40px;
   text-align: center;
+}
+
+.labels{
+  color: white;
+  padding: 15%;
 }
