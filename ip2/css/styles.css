@@ -16,7 +16,6 @@ h4 {
 
 #drinkshead {
   text-align: right;
-
 }
 
 #happyrow {
@@ -73,23 +72,26 @@ h4 {
   font-size: 40px;
   text-align: center;
 }
+
 #section6background {
   height: 300px;
-
   background-size: cover;
   color: white;
   font-size: 40px;
   text-align: center;
 }
+
 #section7background {
   height: 200px;
-background-image: url("../assets/backgrounds/subscribe.jpg");  background-size: cover;
+  background-image: url("../assets/backgrounds/subscribe.jpg");
+  background-size: cover;
   color: white;
   font-size: 40px;
   text-align: center;
 }
+
 #section8background {
-  height: 350px;
+  height: 300px;
   background-color: red;
   background-size: cover;
   color: white;
@@ -97,11 +99,11 @@ background-image: url("../assets/backgrounds/subscribe.jpg");  background-size: 
   text-align: center;
 }
 
-#drinksimage{
+#drinksimage {
   height: 400px;
   width: 300px;
 }
 
-#textfeedback{
+#textfeedback {
   color: black;
 }
