@@ -107,3 +107,8 @@ h4 {
 #textfeedback {
   color: black;
 }
+
+#sidebuttons{
+  float: left;
+  color: white;
+}
