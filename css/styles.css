@@ -40,6 +40,15 @@ h4 {
   text-align: center;
 }
 
+#breakfasttab:hover {
+  height: 160px;
+  background-image: url("../assets/foodtop/dinner2.jpg");
+  background-size: cover;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+}
+
 #lunchtab {
   height: 160px;
   background-image: url("../assets/foodtop/lunch.jpg");
@@ -49,6 +58,16 @@ h4 {
   text-align: center;
 }
 
+#lunchtab:hover {
+  height: 160px;
+  background-image: url("../assets/foodtop/dinner2.jpg");
+  background-size: cover;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+}
+
+
 #dinnertab {
   height: 160px;
   background-image: url("../assets/foodtop/dinner.jpg");
@@ -57,6 +76,16 @@ h4 {
   font-size: 40px;
   text-align: center;
 }
+
+#dinnertab:hover {
+  height: 160px;
+  background-image: url("../assets/foodtop/dinner2.jpg");
+  background-size: cover;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+}
+
 
 .labels {
   color: white;
